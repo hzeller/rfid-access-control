@@ -8,5 +8,6 @@ pkgs.mkShell {
     [
       openscad-unstable
       inkscape
+      pstoedit
     ];
 }

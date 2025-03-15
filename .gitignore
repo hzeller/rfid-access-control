@@ -1,3 +1,5 @@
 #Vim turds
 .*.un~
 .*.swp
+#nix turds
+.direnv
