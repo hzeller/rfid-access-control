@@ -7,3 +7,5 @@ Boards
   - interface board on 'server' side, interfacing the Raspberry Pi or Beaglebone
     with the physical world of serial interfaces an relay switching.
 
+
+For nix users convenience a shell.nix is available
